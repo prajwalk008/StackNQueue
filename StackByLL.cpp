@@ -55,6 +55,7 @@ class stack{
 
         else{
             ListNode* temp= top;
+            cout<<temp->x<<" Removed"<<endl;
             top= top->next;
             delete temp;
             size--;
