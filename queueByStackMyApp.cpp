@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+//This is my Approach, which has O(n) time compl. for both push() and pop() op.
+// We can optimise it!
+
+
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
